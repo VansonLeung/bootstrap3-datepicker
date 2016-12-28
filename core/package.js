@@ -1,8 +1,8 @@
 Package.describe({
-  name: "rajit:bootstrap3-datepicker",
-  git: "https://github.com/rajit/bootstrap3-datepicker.git",
+  name: "vansonhk:bootstrap3-datepicker",
+  git: "https://github.com/VansonLeung/bootstrap3-datepicker.git",
   summary: "Meteor packaging of eternicode/bootstrap-datepicker for Bootstrap 3",
-  version: "1.6.4",
+  version: "1.6.5",
   documentation: 'README.md'
 });
 

@@ -1,3 +1,0 @@
-[submodule "core/lib/bootstrap-datepicker"]
-	path = core/lib/bootstrap-datepicker
-	url = git://github.com/eternicode/bootstrap-datepicker.git
